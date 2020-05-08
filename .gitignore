@@ -1,1 +1,6 @@
 /learning-genomics-env
+/data
+/data_output
+/figure_output
+*.nb.html
+*.Rmd
